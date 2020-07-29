@@ -16,7 +16,7 @@ spring:
 
 * `build.gradle.kts`
 ```kotlin
-implementation(project(":common-lib"))
+implementation(project(":cache-lib"))
 ```
 
 ```kotlin
